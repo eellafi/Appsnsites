@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "appsnsite": {
+      "hosting": {
+        "Appsnsites": [
+          "appsnsite"
+        ]
+      }
+    }
+  }
+}
